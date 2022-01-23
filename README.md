@@ -13,7 +13,7 @@ git clone git@github.com:ionutvmi/system-tray-launcher.git
 pnpm install
 
 # to start the application
-pnpm start main.js
+pnpm start
 ```
 
 ## Creating custom actions
