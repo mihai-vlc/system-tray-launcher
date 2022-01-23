@@ -1,0 +1,16 @@
+{
+    "name": "systray-tools",
+    "version": "1.0.0",
+    "description": "A script/app launcher that displays the available action in the system tray.",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "type": "module",
+    "keywords": [],
+    "author": "Mihai Ionut Vilcu",
+    "license": "MIT",
+    "dependencies": {
+        "systray2": "^2.1.4"
+    }
+}
