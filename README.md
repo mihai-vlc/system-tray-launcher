@@ -1,6 +1,7 @@
 # System tray task launcher
 
 A script/app launcher that displays the available action in the system tray.
+
 The actions are defined as nodejs scripts.
 
 ![screenshot](./screenshots/menu-open.png)
@@ -8,11 +9,11 @@ The actions are defined as nodejs scripts.
 ## Installation
 
 ```
-git clone <repo>
+git clone git@github.com:ionutvmi/system-tray-launcher.git
 pnpm install
 
 # to start the application
-node main.js
+pnpm start main.js
 ```
 
 ## Creating custom actions

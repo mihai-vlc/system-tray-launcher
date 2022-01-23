@@ -4,6 +4,7 @@
     "description": "A script/app launcher that displays the available action in the system tray.",
     "main": "main.js",
     "scripts": {
+        "start": "node main.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "type": "module",
