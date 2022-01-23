@@ -1,5 +1,5 @@
 {
-    "name": "systray-tools",
+    "name": "system-tray-launcher",
     "version": "1.0.0",
     "description": "A script/app launcher that displays the available action in the system tray.",
     "main": "main.js",
